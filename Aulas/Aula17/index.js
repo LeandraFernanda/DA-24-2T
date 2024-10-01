@@ -207,18 +207,7 @@ const pessoa = {
 console.log(pessoa.comidasPreferidas)
 */
 
-/*Crie um array chamado personagens que contenha pelo menos 3 objetos de
-personagens. Cada objeto deve ter as propriedades nome, idade, estilo, jutsus: Uma
-lista de poderes que o personagem possui.
-Crie uma função chamada adicionarPersonagem que adicione um novo personagem
-ao array personagens. A função deve receber um objeto com as propriedades nome,
-idade, classe e poderes.
-Crie uma função chamada buscarPersonagem que recebe um nome e retorna o
-personagem correspondente do array personagens. Se o personagem não for
-encontrado, a função deve retornar uma mensagem indicando isso.
-Crie uma função chamada listarPersonagens que imprime na tela a lista de todos os
-personagens com seus detalhes (nome, idade, estilo e jutsus).
-*/
+
 
 
 /*
